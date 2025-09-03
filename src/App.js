@@ -44,12 +44,26 @@ function App() {
         </div>
       </nav>
 
+      {/* Hero Section */}
+      <section className="hero-section" id="home">
+        <div className="container">
+          <div className="hero-content">
+            <h1 className="hero-title">Chris Auto Shine Detailing</h1>
+            <p className="hero-tagline">Professional Car Detailing & Shine Experts</p>
+            <button className="btn hero-btn" type="button">
+              <i className="bi bi-calendar-check me-2"></i>
+              Book Now
+            </button>
+          </div>
+        </div>
+      </section>
+
       {/* Main Content */}
       <main className="main-content">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-8 text-center">
-              <h1 className="display-4 mb-4">Welcome to Chris Auto Shine</h1>
+              <h2 className="display-4 mb-4">Our Services</h2>
               <p className="lead">
                 Professional car detailing services that make your vehicle shine like new.
               </p>
