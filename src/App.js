@@ -115,7 +115,7 @@ function App() {
           {/* Services Section */}
           <section id="services" className="services-section py-5">
             <div className="row g-4">
-              <div className="col-12 col-md-6 col-lg-4">
+              <div className="col-12 col-md-6 col-lg-3">
                 <div className="card service-card h-100 text-center p-3 reveal-on-scroll">
                   <div className="service-icon mb-3">
                     <i className="bi bi-droplet-half"></i>
@@ -127,7 +127,7 @@ function App() {
                 </div>
               </div>
 
-              <div className="col-12 col-md-6 col-lg-4">
+              <div className="col-12 col-md-6 col-lg-3">
                 <div className="card service-card h-100 text-center p-3 reveal-on-scroll">
                   <div className="service-icon mb-3">
                     <i className="bi bi-brush"></i>
@@ -139,7 +139,7 @@ function App() {
                 </div>
               </div>
 
-              <div className="col-12 col-md-6 col-lg-4">
+              <div className="col-12 col-md-6 col-lg-3">
                 <div className="card service-card h-100 text-center p-3 reveal-on-scroll">
                   <div className="service-icon mb-3">
                     <i className="bi bi-shield-check"></i>
@@ -147,6 +147,18 @@ function App() {
                   <div className="card-body">
                     <h5 className="card-title">Ceramic Coating</h5>
                     <p className="card-text">Long-lasting protection with high-gloss finish and hydrophobic effect.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="col-12 col-md-6 col-lg-3">
+                <div className="card service-card h-100 text-center p-3 reveal-on-scroll">
+                  <div className="service-icon mb-3">
+                    <i className="bi bi-truck"></i>
+                  </div>
+                  <div className="card-body">
+                    <h5 className="card-title">Truck Bulbar, Polishing, and Interior Cleaning</h5>
+                    <p className="card-text">Complete detailing for bulbar, exterior polishing, and full interior clean.</p>
                   </div>
                 </div>
               </div>
