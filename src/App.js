@@ -206,11 +206,13 @@ function App() {
                     vehicle looks its absolute best.
                   </p>
                   <p className="text-muted">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non
-                    faucibus sem. Integer consequat nibh et gravida maximus. Praesent porttitor,
-                    eros vitae vulputate posuere, libero eros cursus lacus, in commodo quam massa
-                    vitae augue. Sed sit amet tempor massa. Aliquam luctus varius dolor, vel
-                    consectetur dui dictum a.
+                    Chris Auto Shine is a local, family-run detailing studio based in Kippa-Ring,
+                    proudly serving the Redcliffe Peninsula and North Brisbane. We specialize in
+                    exterior and interior detailing, paint correction, and ceramic coatings for
+                    daily drivers, enthusiast vehicles, fleets, and dealerships. We use
+                    industry-standard techniques, pH-balanced and eco‑friendly products, and take
+                    a careful, no‑rush approach so every vehicle leaves with a showroom glow. We’re
+                    fully insured and stand behind our work with a satisfaction guarantee.
                   </p>
                 </div>
               </div>

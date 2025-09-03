@@ -323,6 +323,21 @@ body {
   transform: translateY(-1px);
 }
 
+/* Booking */
+.booking-section {
+  background-color: #000000;
+}
+
+.booking-card {
+  background: #111111;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 1rem;
+}
+
+.booking-card h2 {
+  color: #ffffff;
+}
+
 /* Fade-in Animation */
 @keyframes fadeInUp {
   from {
