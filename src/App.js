@@ -212,12 +212,12 @@ function App() {
               <div className="col-12 col-lg-6">
                 <div className="about-text reveal-on-scroll fade-left">
                   <h2 className="display-6 mb-3">About Chris Auto Shine</h2>
-                  <p className="lead mb-3 text-muted">
+                  <p className="lead mb-3 text-muted" style={{ textAlign: 'justify' }}>
                     We deliver premium automotive detailing services with meticulous attention to
                     detail, combining expertise, passion, and high-quality products to ensure your
                     vehicle looks its absolute best.
                   </p>
-                  <p className="text-muted">
+                  <p className="text-muted" style={{ textAlign: 'justify' }}>
                     Chris Auto Shine is a local, family-run detailing studio based in Kippa-Ring,
                     proudly serving the Redcliffe Peninsula and North Brisbane. We specialize in
                     exterior and interior detailing, paint correction, and ceramic coatings for
