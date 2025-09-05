@@ -284,6 +284,29 @@ function App() {
         </div>
       </section>
 
+      {/* Social Media Section */}
+      <section className="social-media-section py-4">
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-12 text-center">
+              <h5 className="mb-3 text-white">Follow Us</h5>
+              <div className="social-links">
+                <a
+                  href="https://www.facebook.com/profile.php?id=61579380248722"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="social-link"
+                  aria-label="Follow us on Facebook"
+                >
+                  <i className="bi bi-facebook"></i>
+                  <span className="social-text">Facebook</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Image Modal */}
       <div
         className="modal fade"
