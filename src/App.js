@@ -264,15 +264,15 @@ function App() {
                   className="map-embed"
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  src={`https://www.google.com/maps?q=${encodeURIComponent('Unit 23 439 Elizabeth Ave KIPPA-RING QLD 4021')}&output=embed`}
+                  src={`https://www.google.com/maps?q=${encodeURIComponent('26 Cameron St. Clontarf 4019')}&output=embed`}
                 ></iframe>
               </div>
               <div className="mt-3">
                 <h5 className="mb-1">Our Address</h5>
-                <p className="mb-2 text-muted">Unit 23 439 Elizabeth Ave KIPPA-RING QLD 4021</p>
+                <p className="mb-2 text-muted">26 Cameron St. Clontarf 4019</p>
                 <a
                   className="btn btn-outline-light btn-sm"
-                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent('Unit 23 439 Elizabeth Ave KIPPA-RING QLD 4021')}`}
+                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent('26 Cameron St. Clontarf 4019')}`}
                   target="_blank"
                   rel="noreferrer"
                 >
